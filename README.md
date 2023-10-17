@@ -1,1 +1,1 @@
-deep learning, deep reinforcement learning
+deep learning, deep reinforcement learning, maximum-entropy

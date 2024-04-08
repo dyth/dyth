@@ -4,7 +4,7 @@ My research interest is to create algorithms that learn through interacting with
 I believe that these algorithms will be more scalable than those that learn from fixed, human-curated datasets about our world.
 
 I like how deep reinforcement learning (RL) abstracts the process of learning through interaction into an optimization problem.
-What interests me most is how to design an RL algorithm that is stable to optimize and also stable across a range of optimization hyperparameters.
+What interests me most is designing an RL algorithm that is stable to optimize across a range of hyperparameters.
 
 Currently, I believe that RL algorithms are unstable because they do not optimize a mathematically sound objective function.
 To this end, I have focused on using analysis, calculus, and probability theory to understand and design loss functions for RL algorithms.

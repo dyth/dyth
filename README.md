@@ -10,7 +10,7 @@ What interests me most is how to design an RL algorithm that is stable to optimi
 I believe that RL algorithms are unstable because they do not optimize a mathematically sound objective function.
 To this end, my research has focused on using linear algebra and probability theory to analyze and derive loss functions for RL algorithms.
 So far, I have:
-1. Shown that using LayerNorm in the critic network prevents divergence when optimizing the mean-squared semi-gradient loss, enabling us to learn high-dimensional continuous control tasks such as dog-run in DeepMind Control ([Stabilizing Q-Learning for Continuous Control, MSc Thesis](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/32085/Hui_David_Yu-Tung_2022_memoire.pdf?sequence=2)).
+1. Shown that using LayerNorm in the critic network prevents divergence when optimizing the mean-squared semi-gradient loss, enabling the resultant algorithm to learn in high-dimensional continuous control tasks such as dog-run in DeepMind Control ([Stabilizing Q-Learning for Continuous Control, MSc Thesis](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/32085/Hui_David_Yu-Tung_2022_memoire.pdf?sequence=2)).
 2. Introduced a heteroscedastic semi-gradient loss with tunable pessimism as a more performant replacement for the mean-squared semi-gradient loss, yielding an algorithm that attains up to 2x performance of SAC after training for 1M timesteps ([Double Gumbel Q-Learning, NeurIPS 2023 Spotlight](https://openreview.net/forum?id=UdaTyy0BNB)).
 
 

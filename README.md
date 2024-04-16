@@ -1,10 +1,8 @@
-I am David Yu-Tung Hui / 許宇同.
-My family name is Hui / 許, and my personal name is David Yu-Tung / David / 宇同.
-I graduated from Mila, University of Montreal in 2023 with an MSc in deep reinforcement learning.
+I am David Yu-Tung Hui / 許宇同, a 2023 MSc graduate from Mila, University of Montreal.
 
 My research focuses on creating algorithms that learn through interacting with the world.
-I believe that these algorithms will be more scalable than those that learn from static human-curated datasets.
-I like reinforcement learning (RL) because it poses the problem of learning through interaction as optimization, enabling it to leverage deep learning numerical optimization methods.
+I believe that learning through interaction will be more scalable than learning from static human-curated datasets.
+I like reinforcement learning (RL) because it poses the problem of learning through interaction as optimization, enabling the use of powerful deep learning numerical optimization methods.
 
 I am especially interested in designing RL algorithms that stably optimize deep neural networks across a range of settings.
 To this end, my research has focused on using linear algebra and probability theory to understand the mathematical soundness of loss functions optimized by RL algorithms.

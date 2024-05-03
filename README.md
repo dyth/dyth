@@ -1,14 +1,15 @@
 I am David Yu-Tung Hui / 許宇同, a 2023 MSc graduate from Mila, University of Montreal.
 
-My research interest is to create algorithms that learn through interacting with the world.
-I believe that algorithms that learn in this way will be more scalable than those that learn from static human-curated datasets.
-Reinforcement learning (RL) poses the process of learning through interaction as an optimization problem and I'm excited by the potential of combining RL with deep learning algorithms that have been shown to be highly scalable numerical optimizers.
+I'm interested in creating algorithms that learn through interacting with an environment.
+I believe that these algorithms might help us discover new knowledge about our world.
 
-I'm especially interested in designing RL algorithms that stably optimize deep neural networks across a range of settings.
-To alleviate instability in RL, I use linear algebra and probability theory to improve the mathematical soundness of loss functions optimized by RL algorithms.
+My research studies optimization principles for deep neural networks in reinforcement learning (RL).
+RL algorithms formalize the process of learning through interaction as an optimization problem, and deep neural networks have been shown to be highly effective at numerical optimization in the previous decade.
+I use linear algebra and probability theory to design principled loss functions for stable optimization across a variety of settings. 
+
 I've written two works toward this goal:
-1. [Stabilizing Q-Learning for Continuous Control, (MSc Thesis @University of Montreal)](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/32085/Hui_David_Yu-Tung_2022_memoire.pdf?sequence=2)
-showed that critic networks with LayerNorm enable semi-gradient updates of the mean-squared temporal-difference error to converge.
+1. [Stabilizing Q-Learning for Continuous Control, (MSc Thesis)](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/32085/Hui_David_Yu-Tung_2022_memoire.pdf)
+showed that critic networks with LayerNorm enabled semi-gradient updates to the mean-squared temporal-difference error to converge.
 This improved learning in high-dimensional continuous control tasks such as dog-run in DeepMind Control.
 
 3. [Double Gumbel Q-Learning, (Spotlight @NeurIPS 2023)](https://openreview.net/forum?id=UdaTyy0BNB)

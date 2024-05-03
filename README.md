@@ -7,8 +7,8 @@ Reinforcement learning (RL) poses the process of learning through interaction as
 I'm especially interested in designing RL algorithms that stably optimize deep neural networks across a range of settings.
 To alleviate instability in RL, I use linear algebra and probability theory to improve the mathematical soundness of loss functions optimized by RL algorithms.
 I've written two works toward this goal:
-1. [Stabilizing Q-Learning for Continuous Control, (MSc Thesis @University of Montreal)](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/32085/Hui_David_Yu-Tung_2022_memoire.pdf?sequence=2) showed that adding LayerNorm to the critic network prevented divergence when minimizing the mean-squared semi-gradient loss, enabling the resultant algorithm to learn high-dimensional continuous control tasks such as dog-run in DeepMind Control.
-2. [Double Gumbel Q-Learning, (Spotlight @NeurIPS 2023)](https://openreview.net/forum?id=UdaTyy0BNB) introduced a heteroscedastic semi-gradient loss with tunable pessimism as a more principled replacement for the mean-squared semi-gradient loss, yielding an algorithm named DoubleGum that attained up to 2x performance of SAC at 1M training timesteps.
+1. [Stabilizing Q-Learning for Continuous Control, (MSc Thesis @University of Montreal)](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/32085/Hui_David_Yu-Tung_2022_memoire.pdf?sequence=2) showed that using LayerNorm in the critic network prevented divergence of optimizing for the mean-squared temporal-difference error with semi-gradients, solving high-dimensional continuous control such as dog-run in DeepMind Control.
+2. [Double Gumbel Q-Learning, (Spotlight @NeurIPS 2023)](https://openreview.net/forum?id=UdaTyy0BNB) showed that Maximum-Entropy RL has two heteroscedastic Gumbel noise sources.  It introduced a new loss function accounting for these noise sources that improved the aggregate performance of SAC by 2x after 1M training timesteps.
 
 I'm currently looking for opportunities where I can continue my research.
 

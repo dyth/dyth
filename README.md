@@ -9,8 +9,8 @@ I use linear algebra and probability theory to design principled loss functions 
 
 I've written two works toward this goal:
 1. [Stabilizing Q-Learning for Continuous Control, (MSc Thesis)](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/32085/Hui_David_Yu-Tung_2022_memoire.pdf)
-showed that critic networks with LayerNorm enabled semi-gradient updates to the mean-squared temporal-difference error to converge.
-This improved learning in high-dimensional continuous control tasks such as dog-run in DeepMind Control.
+showed that critic networks with LayerNorm had convergent semi-gradient updates of the mean-squared temporal-difference error.
+This enabled learning high-dimensional continuous control tasks such as dog-run in DeepMind Control.
 
 3. [Double Gumbel Q-Learning, (Spotlight @NeurIPS 2023)](https://openreview.net/forum?id=UdaTyy0BNB)
 showed that Maximum-Entropy RL has two heteroscedastic Gumbel noise sources.

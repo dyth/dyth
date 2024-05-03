@@ -8,10 +8,12 @@ I'm especially interested in designing RL algorithms that stably optimize deep n
 To alleviate instability in RL, I use linear algebra and probability theory to improve the mathematical soundness of loss functions optimized by RL algorithms.
 I've written two works toward this goal:
 1. [Stabilizing Q-Learning for Continuous Control, (MSc Thesis @University of Montreal)](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/32085/Hui_David_Yu-Tung_2022_memoire.pdf?sequence=2)
-showed that critic networks with LayerNorm enable the convergence of the mean-squared temporal-difference error with semi-gradient updates, solving high-dimensional continuous control such as dog-run in DeepMind Control.
+showed that critic networks with LayerNorm enable semi-gradient updates of the mean-squared temporal-difference error to converge.
+This improved learning in high-dimensional continuous control tasks such as dog-run in DeepMind Control.
 
-2. [Double Gumbel Q-Learning, (Spotlight @NeurIPS 2023)](https://openreview.net/forum?id=UdaTyy0BNB)
-showed that Maximum-Entropy RL has two heteroscedastic Gumbel noise sources, introducing a loss function accounting for these noise sources that improved the aggregate performance of SAC by 2x after 1M training timesteps.
+3. [Double Gumbel Q-Learning, (Spotlight @NeurIPS 2023)](https://openreview.net/forum?id=UdaTyy0BNB)
+showed that Maximum-Entropy RL has two heteroscedastic Gumbel noise sources.
+Accounting for these noise sources improved the aggregate performance of SAC by 2x at 1M training timesteps.
 
 I'm currently looking for opportunities where I can continue my research.
 

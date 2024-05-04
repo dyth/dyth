@@ -1,11 +1,11 @@
 I am David Yu-Tung Hui / 許宇同, a 2023 MSc graduate from Mila, University of Montreal.
 
-I'm interested in creating algorithms that learn through interacting with an environment.
-I believe that these algorithms might help us discover new knowledge about our world.
+I'm interested in creating algorithms that learn through interactions with an environment.
+I hope that these algorithms will eventually be used to discover new knowledge about our world.
 
-My research studies optimization principles for deep neural networks in reinforcement learning (RL).
+To achieve this dream, I research how to train deep neural networks with reinforcement learning (RL).
 RL algorithms formalize the process of learning through interaction as an optimization problem, and deep neural networks have been shown to be highly effective at numerical optimization in the previous decade.
-I use linear algebra and probability theory to design principled loss functions for stable optimization across a variety of settings. 
+My research specifically uses linear algebra and probability theory to design principled loss functions for stable optimization across a variety of settings. 
 
 I've written two works toward this goal:
 1. [Stabilizing Q-Learning for Continuous Control, (MSc Thesis)](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/32085/Hui_David_Yu-Tung_2022_memoire.pdf)

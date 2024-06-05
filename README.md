@@ -5,7 +5,7 @@ I hope that these algorithms will eventually be used to discover new knowledge a
 
 To achieve this dream, I research reinforcement learning (RL) algorithms.
 These algorithms frame the process of learning through interaction as an optimization problem.
-My research focuses on using linear algebra and probability theory to design principled loss functions that enable stable optimization across a variety of settings. 
+In my research, I use linear algebra and probability theory to design principled loss functions that RL algorithms can stably optimize across a variety of settings. 
 
 I've written two works toward this goal:
 1. [Stabilizing Q-Learning for Continuous Control (MSc Thesis)](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/32085/Hui_David_Yu-Tung_2022_memoire.pdf)

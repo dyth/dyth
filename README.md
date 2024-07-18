@@ -1,4 +1,5 @@
 I am David Yu-Tung Hui / 許宇同.
+
 I'm interested in creating algorithms that learn through interactions with an environment.
 I hope that these algorithms will eventually be used to discover new knowledge about our world.
 

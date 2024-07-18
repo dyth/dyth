@@ -1,10 +1,8 @@
-I am David Yu-Tung Hui / 許宇同, a 2023 MSc graduate from Mila, University of Montreal.
-
+I am David Yu-Tung Hui / 許宇同.
 I'm interested in creating algorithms that learn through interactions with an environment.
 I hope that these algorithms will eventually be used to discover new knowledge about our world.
 
-To achieve this dream, I research reinforcement learning (RL) algorithms.
-These algorithms frame the process of learning through interaction as an optimization problem.
+I research reinforcement learning (RL) algorithms which frame the process of learning through interaction as an optimization problem.
 In my research, I use linear algebra and probability theory to design principled loss functions that RL algorithms can stably optimize across a variety of settings. 
 
 I've written two works toward this goal:
@@ -16,6 +14,7 @@ This enabled learning high-dimensional continuous control tasks such as dog-run 
 showed that Maximum-Entropy RL has two heteroscedastic Gumbel noise sources.
 Accounting for these noise sources improved the aggregate performance of SAC by 2x at 1M training timesteps.
 
+In 2023, I graduated with an MSc from Mila, University of Montreal.
 I'm currently looking for opportunities where I can continue my research.
 
 For more information about me, please see:

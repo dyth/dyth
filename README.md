@@ -1,9 +1,8 @@
-I am David Yu-Tung Hui / 許宇同, and I develop model-free reinforcement learning algorithms.
+I am David Yu-Tung Hui / 許宇同, and I am interested in model-free reinforcement learning.
 
-My research goal is to create algorithms that learn about our world through interactions.
-I hope that these algorithms will one day help us discover new scientific knowledge.
-To achieve my goal, I work on Reinforcement Learning (RL) algorithms that formalize the learning-through-interaction process as an optimization problem.
-Specifically, I improve optimization in RL using insights from linear algebra and probability theory.
+My motivation is to create algorithms that learn about our world through interactions.
+To achieve this goal, I develop Reinforcement Learning (RL) algorithms that frame the learning-through-interaction process as an optimization problem.
+I'm curious about how to improve optimization in RL using insights from linear algebra and probability theory.
 
 I've written two works on this theme:
 1. [Stabilizing Q-Learning for Continuous Control (MSc Thesis, 2022)](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/32085/Hui_David_Yu-Tung_2022_memoire.pdf)

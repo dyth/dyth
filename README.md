@@ -1,10 +1,10 @@
-I am David Yu-Tung Hui / 許宇同, and I am interested in model-free reinforcement learning.
+### David Yu-Tung Hui, 許宇同
 
-My motivation is to create algorithms that learn about our world through interactions.
-To achieve this goal, I develop Reinforcement Learning (RL) algorithms that frame the learning-through-interaction process as an optimization problem.
-I'm curious about how to improve optimization in RL using insights from linear algebra and probability theory.
+I am an independent researcher interested in Deep Reinforcement Learning (RL).
+My research goal is to improve the scalability of RL algorithms by improving their optimization stability using principled methods from probability theory and analysis.
+I'm especially curious about how to design gradient-based optimization algorithms that enable neural networks to learn Q-functions.
 
-I've written two works on this theme:
+I've written two works along this research direction:
 1. [Stabilizing Q-Learning for Continuous Control (MSc Thesis, 2022)](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/32085/Hui_David_Yu-Tung_2022_memoire.pdf)
 showed that adding LayerNorm to critic networks prevented semi-gradient updates of the mean-squared temporal-difference error from diverging.
 Adding LayerNorm to DDPG solved high-dimensional continuous control tasks such as dog-run in DeepMind Control.

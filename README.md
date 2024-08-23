@@ -1,7 +1,7 @@
 ### David Yu-Tung Hui, 許宇同
 
 I am an independent researcher interested in Deep Reinforcement Learning (RL).
-My research goal is to improve the scalability of RL algorithms by improving their optimization stability using principled methods from probability theory and analysis.
+My research goal is to make RL algorithms more scalable by improving their optimization stability using principled methods from probability theory and analysis.
 I'm especially curious about how to design gradient-based optimization algorithms that enable neural networks to learn Q-functions.
 
 I've written two works along this research direction:

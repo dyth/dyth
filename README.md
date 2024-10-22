@@ -19,5 +19,3 @@ I'm looking for opportunities where I can continue my research.
 For more information about me, see:
 
 [Google Scholar](https://scholar.google.com/citations?user=pXHOdMwAAAAJ&hl=en)
-
-[Short CV](https://dyth.github.io/CV_DavidYu_TungHui.pdf)

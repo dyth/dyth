@@ -1,7 +1,7 @@
 ### David Yu-Tung Hui, 許宇同
 
 I am an independent researcher interested in Deep Reinforcement Learning.
-My research focuses on increasing the robustness of off-policy gradient-based $Q$-learning algorithms to variations over a range of tasks and hyperparameters.
+My research focuses on increasing the optimization stability of off-policy gradient-based $Q$-learning algorithms over a range of tasks and hyperparameters.
 I'm especially interested in developing algorithms to solve continuous control tasks.
 
 I've written two works along this research direction:
@@ -9,11 +9,12 @@ I've written two works along this research direction:
 1. **Stabilizing Q-Learning for Continuous Control**  
 David Yu-Tung Hui  
 MSc Thesis, University of Montreal, 2022  
-I presented empirical evidence that LayerNorm prevented divergence in off-policy $Q$-Learning in the MuJoCo and DeepMind Control continuous control environments.
+I presented empirical evidence that LayerNorm prevented off-policy $Q$-Learning from diverging in the MuJoCo and DeepMind Control continuous control environments.
 I also showed that using LayerNorm in DDPG enabled learning non-trivial behaviors in the dog-run task of DeepMind Control.  
 [[.pdf]](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/32085/Hui_David_Yu-Tung_2022_memoire.pdf)
+[[Errata]](https://gist.github.com/dyth/0324b7a4c2ca4b0f3bab18583b5dc22b)
 
-2. **Double Gumbel Q-Learning**  
+3. **Double Gumbel Q-Learning**  
 David Yu-Tung Hui, Aaron Courville, Pierre-Luc Bacon  
 Spotlight at NeurIPS 2023  
 In this conference paper, we model noise introduced by a function approximator in $Q$-learning as a heteroscedastic Gumbel distribution.

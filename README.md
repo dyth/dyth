@@ -25,6 +25,7 @@ We derived a loss function from this noise model that was effective in off-polic
 [[5-min talk]](https://slideslive.com/39009623/double-gumbel-qlearning)
 [[1-hour seminar]](https://www.youtube.com/watch?v=GMNtHLA3bAE)
 [[Code (GitHub)]](https://github.com/dyth/doublegum)
+[[Errata]](https://gist.github.com/dyth/0abd5c5b87184144854a431437de7d44)
 
 In 2023, I graduated with an MSc from Mila, University of Montreal.
 I'm looking for opportunities where I can continue my research.

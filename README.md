@@ -17,8 +17,7 @@ I also showed that using LayerNorm in DDPG enabled learning non-trivial behavior
 3. **Double Gumbel Q-Learning**  
 David Yu-Tung Hui, Aaron Courville, Pierre-Luc Bacon  
 Spotlight at NeurIPS 2023  
-In this conference paper, we model noise introduced by a function approximator in $Q$-learning as a heteroscedastic Gumbel distribution.
-We derived a loss function from this noise model that was effective in off-policy continuous control -- our resultant algorithm achieved ~2x the aggregate performance of SAC after 1M training timesteps.  
+We modeled noise introduced by a function approximator in $Q$-learning as a heteroscedastic Gumbel distribution and derived a loss function from this noise model that was effective in off-policy continuous control -- our resultant algorithm achieved ~2x the aggregate performance of SAC after 1M training timesteps.  
 [[.pdf]](https://proceedings.neurips.cc/paper_files/paper/2023/file/07956d40074d6523bad11112b3225c6e-Paper-Conference.pdf)
 [[Reviews]](https://openreview.net/forum?id=UdaTyy0BNB)
 [[Poster (.png)]](https://nips.cc/media/PosterPDFs/NeurIPS%202023/71497.png)

@@ -9,8 +9,8 @@ I've written two works along this research direction:
 1. **Stabilizing Q-Learning for Continuous Control**  
 David Yu-Tung Hui  
 MSc Thesis, University of Montreal, 2022  
-I presented empirical evidence that LayerNorm prevented off-policy $Q$-Learning from diverging in the MuJoCo and DeepMind Control continuous control environments.
-I also showed that using LayerNorm in DDPG enabled learning non-trivial behaviors in the dog-run task of DeepMind Control.  
+I showed that using LayerNorm in linear function approximation prevents divergence in off-policy $Q$-Learning.
+Empirically, using LayerNorm in nonlinear function approximation prevented divergence of DDPG in MuJoCo and DeepMind Control continuous control environments, learning non-trivial behaviors in the dog-run task of DeepMind Control.
 [[.pdf]](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/32085/Hui_David_Yu-Tung_2022_memoire.pdf)
 [[Errata]](https://gist.github.com/dyth/0324b7a4c2ca4b0f3bab18583b5dc22b)
 

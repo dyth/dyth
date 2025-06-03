@@ -9,7 +9,7 @@ I've written two works along this research direction:
 David Yu-Tung Hui  
 MSc Thesis, University of Montreal, 2022  
 There are two topics in this thesis.
-First, I investigated the duality between maximizing entropy and maximizing likelihood in RL.
+First, I investigated the duality between maximizing entropy and maximizing likelihood in the context of RL.
 Then, I showed that LayerNorm reduced divergence in $Q$-learning, especially in high-dimensional continuous control tasks.  
 [[.pdf]](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/32085/Hui_David_Yu-Tung_2022_memoire.pdf)
 [[Errata]](https://gist.github.com/dyth/0324b7a4c2ca4b0f3bab18583b5dc22b)

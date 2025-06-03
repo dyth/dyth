@@ -10,7 +10,7 @@ David Yu-Tung Hui
 MSc Thesis, University of Montreal, 2022  
 There are two topics in this thesis.
 First, I investigated the duality between maximizing entropy and maximizing likelihood in RL.
-Then, I showed that LayerNorm reduced divergence in $Q$-learning for high-dimensional continuous control.  
+Then, I showed that LayerNorm reduced divergence in $Q$-learning, especially in high-dimensional continuous control tasks.  
 [[.pdf]](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/32085/Hui_David_Yu-Tung_2022_memoire.pdf)
 [[Errata]](https://gist.github.com/dyth/0324b7a4c2ca4b0f3bab18583b5dc22b)
 
@@ -18,7 +18,7 @@ Then, I showed that LayerNorm reduced divergence in $Q$-learning for high-dimens
 David Yu-Tung Hui, Aaron Courville, Pierre-Luc Bacon  
 Spotlight at NeurIPS 2023  
 We showed that using function approximation in $Q$-learning introduced two heteroscedastic Gumbel noise sources.
-Modeling these noise sources improved by up to $2\times$ the aggregate performance of a $Q$-learning algorithm at 1M timesteps over 33 continuous control tasks.  
+An algorithm that modeled these noise sources attained almost $2\times$ the aggregate performance of SAC at 1M timesteps over 33 continuous control tasks.  
 [[.pdf]](https://proceedings.neurips.cc/paper_files/paper/2023/file/07956d40074d6523bad11112b3225c6e-Paper-Conference.pdf)
 [[Reviews]](https://openreview.net/forum?id=UdaTyy0BNB)
 [[Poster (.png)]](https://nips.cc/media/PosterPDFs/NeurIPS%202023/71497.png)

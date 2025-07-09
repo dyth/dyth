@@ -25,6 +25,3 @@ An algorithm modeling these noise sources attained almost $2\times$ the aggregat
 [[1-hour seminar]](https://www.youtube.com/watch?v=GMNtHLA3bAE)
 [[Code (GitHub)]](https://github.com/dyth/doublegum)
 [[Errata]](https://gist.github.com/dyth/0abd5c5b87184144854a431437de7d44)
-
-
-See my [Google Scholar](https://scholar.google.com/citations?user=pXHOdMwAAAAJ&hl=en) for more of my research.

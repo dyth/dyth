@@ -1,7 +1,7 @@
 ### David Yu-Tung Hui, 許宇同
 
-I am interested in Deep Reinforcement Learning and its application in continuous-control tasks.
-My research focused on improving the optimization stability of off-policy gradient-based $Q$-learning algorithms over a range of tasks and hyperparameters.
+I am interested in Deep Reinforcement Learning and its application to continuous-control tasks.
+My research improved the optimization stability of off-policy gradient-based $Q$-learning algorithms over a range of tasks and hyperparameters.
 
 I've written two works along this research direction:
 

@@ -1,6 +1,6 @@
-### David Yu-Tung Hui, 許宇同
+### David Yu-Tung Hui 許宇同
 
-I am interested in Deep Reinforcement Learning and its application to continuous-control tasks.
+I worked in Deep Reinforcement Learning and its application to continuous-control tasks.
 My research improved the optimization stability of off-policy gradient-based $Q$-learning algorithms over a range of tasks and hyperparameters.
 
 I've written two works along this research direction:
@@ -25,3 +25,6 @@ An algorithm modeling these noise sources attained almost $2\times$ the aggregat
 [[1-hour seminar]](https://www.youtube.com/watch?v=GMNtHLA3bAE)
 [[Code (GitHub)]](https://github.com/dyth/doublegum)
 [[Errata]](https://gist.github.com/dyth/0abd5c5b87184144854a431437de7d44)
+
+The best way to contact me is email.
+My email address is listed in one of my written works.

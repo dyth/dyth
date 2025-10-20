@@ -1,9 +1,7 @@
 ### David Yu-Tung Hui 許宇同
 
 I used to be an AI researcher in Deep Reinforcement Learning.
-My research improved the optimization stability of off-policy gradient-based $Q$-learning algorithms.
-
-I've written two works along this research direction:
+I wrote two works improving the optimization stability of off-policy gradient-based $Q$-learning algorithms:
 
 1. **Stabilizing Q-Learning for Continuous Control**  
 David Yu-Tung Hui  

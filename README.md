@@ -8,9 +8,9 @@ I've written two works along this research direction:
 1. **Stabilizing Q-Learning for Continuous Control**  
 David Yu-Tung Hui  
 MSc Thesis, University of Montreal, 2022  
-I derived deep learning from first principles and applied the first principles to improve reinforcement learning.
+I derived deep learning from first principles and applied the principles to reinforcement learning.
 I showed that deep learning loss functions satisfy the principle of maximum entropy and also showed that normalization layers and activation functions enabled convergence of a neural tangent kernel analysis.
-I applied these principles to deep reinforcement learning, producing an maximum-entropy-inspired $Q$-learning algorithm and showing that LayerNorm reduced divergence in $Q$-learning, especially in high-dimensional continuous control tasks.  
+I applied these principles to deep reinforcement learning, producing an maximum-entropy-inspired $Q$-learning algorithm and showing that LayerNorm reduced divergence of this algorithm, especially in high-dimensional continuous control tasks.  
 [[.pdf]](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/32085/Hui_David_Yu-Tung_2022_memoire.pdf)
 [[Errata]](https://gist.github.com/dyth/0324b7a4c2ca4b0f3bab18583b5dc22b)
 

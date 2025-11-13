@@ -17,7 +17,7 @@ I then used the principle of maximum entropy to justify the design of a Q-learni
 David Yu-Tung Hui, Aaron Courville, Pierre-Luc Bacon  
 Spotlight at NeurIPS 2023  
 We showed that function approximation in Q-learning introduced two heteroscedastic Gumbel noise sources that are not modeled by previous algorithms.
-An algorithm modeling these noise sources attained just under 2 times the aggregate performance of the popular SAC baseline at 1M timesteps over 33 continuous control tasks.  
+An algorithm modeling these noise sources attained just under 2 times the performance of the popular SAC baseline aggregated over 33 continuous control tasks after 1M interactions.  
 [[.pdf]](https://proceedings.neurips.cc/paper_files/paper/2023/file/07956d40074d6523bad11112b3225c6e-Paper-Conference.pdf)
 [[Reviews]](https://openreview.net/forum?id=UdaTyy0BNB)
 [[Poster (.png)]](https://nips.cc/media/PosterPDFs/NeurIPS%202023/71497.png)

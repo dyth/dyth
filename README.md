@@ -8,15 +8,15 @@ I wrote two works improving the optimization stability of off-policy gradient-ba
 David Yu-Tung Hui  
 MSc Thesis, University of Montreal, 2022  
 I described two principles for stabilizing deep learning algorithms and applied the principles to deep reinforcement learning.
-The principles were 1) maximum entropy for deriving loss functions and 2) the neural tangent kernel for designing the LayerNorm and ReLU regularizers.
-In RL, maximum entropy provided a theoretical justification for the SACLite Q-learning family of algorithms and LayerNorm reduced divergence of these algorithms, especially in high-dimensional continuous control.  
+The principles were 1) maximum entropy for deriving loss functions and 2) the neural tangent kernel for deriving regularizers.
+In RL, maximum entropy justified the SACLite Q-learning algorithm and the LayerNorm regularizer reduced its divergence, especially in high-dimensional continuous control.  
 [[.pdf]](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/32085/Hui_David_Yu-Tung_2022_memoire.pdf)
 [[Errata]](https://gist.github.com/dyth/0324b7a4c2ca4b0f3bab18583b5dc22b)
 
 3. **Double Gumbel Q-Learning**  
 David Yu-Tung Hui, Aaron Courville, Pierre-Luc Bacon  
 Spotlight at NeurIPS 2023  
-We showed that deep Q-learning has two heteroscedastic Gumbel noise sources arising from parameter inaccuracy of deep neural networks.
+We showed that deep Q-learning has two heteroscedastic Gumbel noise sources arising from the parameter inaccuracy of deep neural networks.
 An algorithm accounting for these noise sources attained just under 2 times the aggregate asymptotic performance of the popular SAC baseline.  
 [[.pdf]](https://proceedings.neurips.cc/paper_files/paper/2023/file/07956d40074d6523bad11112b3225c6e-Paper-Conference.pdf)
 [[Reviews]](https://openreview.net/forum?id=UdaTyy0BNB)

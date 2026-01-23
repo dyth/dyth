@@ -1,4 +1,9 @@
-### David Yu-Tung Hui 許宇同
+### David Yu-Tung Hui / 許宇同
+
+There are multiple ways to write my name.
+In Latin script, my surname is "Hui" and my firstname is "David Yu-Tung."
+In Traditional Chinese characters, my family name is "許" and my given name is "宇同."
+Most people call me "David."
 
 I am currently unemployed.
 I used to be an AI researcher in deep reinforcement learning.

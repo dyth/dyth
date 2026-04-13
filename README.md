@@ -1,8 +1,8 @@
 ### David Yu-Tung Hui / 許宇同 *
 
 I am currently unemployed.
-I used to be an AI researcher in deep reinforcement learning.
-I wrote two works improving the optimization stability of off-policy gradient-based Q-learning algorithms.
+I used to research a subfield of AI called deep reinforcement learning.
+I wrote two works improving the optimization stability of deep reinforcement learning algorithms.
 
 1. **Stabilizing Q-Learning for Continuous Control**  
 David Yu-Tung Hui  

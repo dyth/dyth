@@ -17,8 +17,8 @@ Compared to baseline actor-critic algorithms, my algorithm did not diverge in hi
 2. **Double Gumbel Q-Learning**  
 David Yu-Tung Hui, Aaron Courville, Pierre-Luc Bacon  
 Spotlight at NeurIPS 2023  
-We showed that Q-learning with function approximation has two previously unnoticed heteroscedastic Gumbel noise sources.
-An algorithm accounting for these noise sources attained almost 2 times the aggregate asymptotic performance of the popular SAC baseline.  
+We showed that Q-learning with function approximation had two previously unnoticed heteroscedastic Gumbel noise sources.
+An algorithm accounting for these noise sources attained just under 2 times the aggregate performance of the popular SAC baseline.  
 [[.pdf]](https://proceedings.neurips.cc/paper_files/paper/2023/file/07956d40074d6523bad11112b3225c6e-Paper-Conference.pdf)
 [[Reviews]](https://openreview.net/forum?id=UdaTyy0BNB)
 [[Poster (.png)]](https://nips.cc/media/PosterPDFs/NeurIPS%202023/71497.png)

@@ -2,7 +2,8 @@
 
 I am currently unemployed.
 I used to research a subfield of AI called deep reinforcement learning.
-I wrote two works improving the optimization stability of deep reinforcement learning algorithms.
+In this subfield, I was most interested in improving the optimization stability of off-policy deep Q-learning algorithms.
+I wrote two works towards this goal:
 
 1. **Stabilizing Q-Learning for Continuous Control**  
 David Yu-Tung Hui  
@@ -13,7 +14,7 @@ Compared to baseline actor-critic algorithms, my algorithm did not diverge in hi
 [[.pdf]](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/32085/Hui_David_Yu-Tung_2022_memoire.pdf)
 [[Errata]](https://gist.github.com/dyth/0324b7a4c2ca4b0f3bab18583b5dc22b)
 
-3. **Double Gumbel Q-Learning**  
+2. **Double Gumbel Q-Learning**  
 David Yu-Tung Hui, Aaron Courville, Pierre-Luc Bacon  
 Spotlight at NeurIPS 2023  
 We showed that Q-learning with function approximation has two previously unnoticed heteroscedastic Gumbel noise sources.
@@ -26,8 +27,10 @@ An algorithm accounting for these noise sources attained almost 2 times the aggr
 [[Code (GitHub)]](https://github.com/dyth/doublegum)
 [[Errata]](https://gist.github.com/dyth/0abd5c5b87184144854a431437de7d44)
 
+More of my research is listed on [Google Scholar](https://scholar.google.com/citations?user=pXHOdMwAAAAJ&hl=en).
+
 The best way to contact me is email.
-My email address is listed in one of my written works.
+You can find my address in my works.
 
 \* There are multiple ways to write my name.
 In Latin script, my surname is "Hui" and my firstname is "David Yu-Tung."

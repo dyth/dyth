@@ -31,7 +31,7 @@ Compared to baseline actor-critic algorithms, my algorithm did not diverge in hi
 [[.pdf]](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/32085/Hui_David_Yu-Tung_2022_memoire.pdf)
 [[Errata]](https://gist.github.com/dyth/0324b7a4c2ca4b0f3bab18583b5dc22b)
 
-Before my MSc, I was a visiting researcher working with Prof. Yoshua Bengio at Mila.
+Before my MSc, I was a visiting researcher at Mila working with Prof. Yoshua Bengio.
 I designed algorithms that trained AI to follow instructions in a 2D gridworld game.
 I was a part of two projects:
 

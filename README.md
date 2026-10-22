@@ -45,12 +45,12 @@ We found three subtle changes to neural network architectures that almost triple
 
 5. _Combating False Negatives in Adversarial Imitation Learning_  
 Konrad Zołna, Chitwan Saharia, Leonard Boussioux, _David Yu-Tung Hui_, Maxime Chevalier-Boisvert, Dzmitry Bahdanau, Yoshua Bengio  
-We proposed three methods to improve adversarial imitation learning that improved the sample efficiency of instruction following by at least an order of magnitude.  
+We presented three modifications to adversarial imitation learning that improved the sample efficiency of instruction following by at least an order of magnitude.  
 IJCNN, 2021  
 AAAI, 2020 (Student Abstract)  
 [[.pdf]](https://arxiv.org/pdf/2002.00412)
 
-During my time as a visiting researcher, I also worked on two applications of deep learning:
+I also worked on two applications of deep learning during my time as a visiting researcher:
 
 5. _Generating Multiscale Amorphous Molecular Structures Using Deep Learning: A Study in 2D_  
 Michael Kilgour, Nicolas Gastellu, _David Yu-Tung Hui_, Yoshua Bengio, Lena Simine  
@@ -65,6 +65,10 @@ We benchmarked deep learning algorithms on how well they detected medical images
 [[.pdf]](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-004.pdf)
 [[10-min talk]](https://slideslive.com/38930580/a-benchmark-of-medical-out-of-distribution-detection)
 [[Code (GitHub)]](https://github.com/caotians1/OD-test-master)
+
+Before my time at Mila, I studied at Trinity College Cambridge for a BA in Computer Science.
+I completed internships at Facebook and Tractable.
+And I also hold a DipABRSM in piano performance.
 
 <sup>*</sup>There are multiple ways to write my name.
 In Latin script, my surname is "Hui" and my firstname is "David Yu-Tung."

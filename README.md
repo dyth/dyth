@@ -44,7 +44,7 @@ We found three subtle changes to neural network architectures that almost triple
 [[Code (GitHub)]](https://github.com/mila-iqia/babyai)
 
 5. _Combating False Negatives in Adversarial Imitation Learning_  
-Konrad Zołna, Chitwan Saharia, Leonard Boussioux, _David Yu-Tung Hui_, Maxime Chevalier-Boisvert, Dzmitry Bahdanau, Yoshua Bengio
+Konrad Zołna, Chitwan Saharia, Leonard Boussioux, _David Yu-Tung Hui_, Maxime Chevalier-Boisvert, Dzmitry Bahdanau, Yoshua Bengio  
 We proposed three methods to improve adversarial imitation learning that improved the sample efficiency of instruction following by at least an order of magnitude.  
 IJCNN, 2021  
 AAAI, 2020 (Student Abstract)  

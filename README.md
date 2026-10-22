@@ -36,7 +36,7 @@ I designed algorithms that trained AI to follow instructions in a 2D gridworld g
 I was a part of two projects:
 
 3. _BabyAI 1.1_  
-_David Yu-Tung Hui_, Maxime Chevalier-Boisvert, Dzmitry Bahdanau, and Yoshua Bengio  
+_David Yu-Tung Hui_, Maxime Chevalier-Boisvert, Dzmitry Bahdanau, Yoshua Bengio  
 arXiv preprint, 2020  
 We found three subtle changes to neural network architectures that almost tripled the sample efficiency of reinforcement learning for instruction following.  
 [[.pdf]](https://arxiv.org/pdf/2007.12770)

@@ -6,8 +6,7 @@
 I am an alumnus of Mila, University of Montreal, where I was a MSc student co-advised by Prof. Aaron Courville and Prof. Pierre-Luc Bacon.
 
 During my MSc, I researched a subfield of AI called deep reinforcement learning.
-My research goal was to improve the optimization stability of off-policy deep Q-learning algorithms.
-I wrote two works towards this goal:
+I contributed two works to this subfield:
 
 1. _Double Gumbel Q-Learning_  
 _David Yu-Tung Hui_, Aaron Courville, Pierre-Luc Bacon  
@@ -33,7 +32,7 @@ Compared to baseline actor-critic algorithms, my algorithm did not diverge in hi
 [[Errata]](https://gist.github.com/dyth/0324b7a4c2ca4b0f3bab18583b5dc22b)
 
 Before my MSc, I was a visiting researcher working with Prof. Yoshua Bengio at Mila.
-I researched methods that trained AI agents to follow instructions in a 2D gridworld.
+I designed algorithms that trained AI to follow instructions in a 2D gridworld game.
 I was a part of two projects:
 
 3. _BabyAI 1.1_  
@@ -55,7 +54,7 @@ I also worked on two applications of deep learning during my time as a visiting 
 5. _Generating Multiscale Amorphous Molecular Structures Using Deep Learning: A Study in 2D_  
 Michael Kilgour, Nicolas Gastellu, _David Yu-Tung Hui_, Yoshua Bengio, Lena Simine  
 The Journal of Physical Chemistry Letters, 2020  
-We trained PixelCNN to generate images of amorphous molecular assemblies.  
+We trained PixelCNN to generate images of amorphous materials.  
 [[.pdf]](https://drive.google.com/file/d/1NkbTbbIHPm5cGMpUBLdn0kJN2N5ix0Dq/view)
 
 7. _A benchmark of medical out of distribution detection_  
@@ -66,9 +65,9 @@ We benchmarked deep learning algorithms on how well they detected medical images
 [[10-min talk]](https://slideslive.com/38930580/a-benchmark-of-medical-out-of-distribution-detection)
 [[Code (GitHub)]](https://github.com/caotians1/OD-test-master)
 
-Before my time at Mila, I studied at Trinity College Cambridge for a BA in Computer Science.
+Before my time at Mila, I studied at Trinity College Cambridge and graduated with a BA in Computer Science.
 I completed internships at Facebook and Tractable.
-And I also hold a DipABRSM in piano performance.
+And I hold a DipABRSM in piano performance.
 
 <sup>*</sup>There are multiple ways to write my name.
 In Latin script, my surname is "Hui" and my firstname is "David Yu-Tung."

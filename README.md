@@ -6,7 +6,7 @@
 I am an alumnus of Mila, University of Montreal, where I was a MSc student studying Computer Science with a concentration in AI.
 
 During my MSc, I conducted research that was co-supervised by Prof. Aaron Courville and Prof. Pierre-Luc Bacon.
-My research was in a subfield of AI called deep reinforcement learning.
+I researched a subfield of AI called deep reinforcement learning.
 I contributed two works to this subfield:
 
 * _Double Gumbel Q-Learning_  

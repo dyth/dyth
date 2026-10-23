@@ -57,7 +57,7 @@ The Journal of Physical Chemistry Letters, 2020
 We trained PixelCNN to generate images of amorphous materials.  
 [[.pdf]](https://drive.google.com/file/d/1NkbTbbIHPm5cGMpUBLdn0kJN2N5ix0Dq/view)
 
-* _A benchmark of medical out of distribution detection_  
+* _A Benchmark of Medical Out of Distribution Detection_  
 Tianshi Cao, Chin-Wei Huang, _David Yu-Tung Hui_, Joseph Paul Cohen  
 UDL Workshop, ICML 2020 (Oral)  
 We benchmarked deep learning algorithms on how well they detected medical images outside their training data.  

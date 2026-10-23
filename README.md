@@ -3,7 +3,7 @@
 [[OpenReview]](https://openreview.net/profile?id=~David_Yu-Tung_Hui1)
 [[Find my email here]](https://proceedings.neurips.cc/paper_files/paper/2023/file/07956d40074d6523bad11112b3225c6e-Paper-Conference.pdf)
 
-I am an alumnus of Mila, University of Montreal, where I completed MSc studes in Computer Science with a concentration in AI.
+I am an alumnus of Mila, University of Montreal, where I completed MSc studies in Computer Science with a concentration in AI.
 
 During my MSc, I conducted research that was co-supervised by Prof. Aaron Courville and Prof. Pierre-Luc Bacon.
 I researched a subfield of AI called deep reinforcement learning, and contributed two works:

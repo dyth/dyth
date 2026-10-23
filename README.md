@@ -3,9 +3,10 @@
 [[OpenReview]](https://openreview.net/profile?id=~David_Yu-Tung_Hui1)
 [[Find my email here]](https://proceedings.neurips.cc/paper_files/paper/2023/file/07956d40074d6523bad11112b3225c6e-Paper-Conference.pdf)
 
-I am an alumnus of Mila, University of Montreal, where I was a MSc student co-advised by Prof. Aaron Courville and Prof. Pierre-Luc Bacon.
+I am an alumnus of Mila, University of Montreal, where I was a MSc student studying Computer Science with a concentration in AI.
 
 During my MSc, I researched a subfield of AI called deep reinforcement learning.
+I was co-advised by Prof. Aaron Courville and Prof. Pierre-Luc Bacon.
 I contributed two works to this subfield:
 
 1. _Double Gumbel Q-Learning_  
@@ -65,9 +66,9 @@ We benchmarked deep learning algorithms on how well they detected medical images
 [[10-min talk]](https://slideslive.com/38930580/a-benchmark-of-medical-out-of-distribution-detection)
 [[Code (GitHub)]](https://github.com/caotians1/OD-test-master)
 
-Before my time at Mila, I studied at Trinity College Cambridge and graduated with a BA in Computer Science.
-I completed internships at Facebook and Tractable.
-And I hold a DipABRSM in piano performance.
+Before my time at Mila, I studied for a BA in Computer Science at Trinity College Cambridge, and completed internships at Facebook and Tractable.
+
+I also hold a DipABRSM in piano performance.
 
 <sup>*</sup>There are multiple ways to write my name.
 In Latin script, my surname is "Hui" and my firstname is "David Yu-Tung."

@@ -26,8 +26,8 @@ Modeling these noise sources almost doubled the performance of the popular SAC b
 _David Yu-Tung Hui_  
 MSc Thesis, University of Montreal, 2022  
 I derived a deep reinforcement learning algorithm from first principles.
-I first derived loss functions from the principle of maximum entropy.
-I secondly argued that regularizing the critic with LayerNorm improved convergence according to mathematical analysis inspired by the neural tangent kernel.
+I derived loss functions from the principle of maximum entropy.
+And I derived a justification for regularizing the critic with LayerNorm using mathematical analysis inspired by the neural tangent kernel.
 Compared to baseline actor-critic algorithms, my algorithm did not diverge in high-dimensional continuous control.    
 [[.pdf]](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/32085/Hui_David_Yu-Tung_2022_memoire.pdf)
 [[Errata]](https://gist.github.com/dyth/0324b7a4c2ca4b0f3bab18583b5dc22b)

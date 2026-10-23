@@ -5,11 +5,11 @@
 
 I am an alumnus of Mila, University of Montreal, where I was a MSc student studying Computer Science with a concentration in AI.
 
-During my MSc, I researched a subfield of AI called deep reinforcement learning.
-I was co-advised by Prof. Aaron Courville and Prof. Pierre-Luc Bacon.
+During my MSc, I conducted research that was co-supervised by Prof. Aaron Courville and Prof. Pierre-Luc Bacon.
+My research was in a subfield of AI called deep reinforcement learning.
 I contributed two works to this subfield:
 
-1. _Double Gumbel Q-Learning_  
+* _Double Gumbel Q-Learning_  
 _David Yu-Tung Hui_, Aaron Courville, Pierre-Luc Bacon  
 NeurIPS 2023 (Spotlight)  
 We showed that function approximators introduce two heteroscedastic Gumbel noise sources to Q-learning.
@@ -22,7 +22,7 @@ Modeling these noise sources almost doubled the performance of the popular SAC b
 [[Code (GitHub)]](https://github.com/dyth/doublegum)
 [[Errata]](https://gist.github.com/dyth/0abd5c5b87184144854a431437de7d44)
 
-2. _Stabilizing Q-Learning for Continuous Control_  
+* _Stabilizing Q-Learning for Continuous Control_  
 _David Yu-Tung Hui_  
 MSc Thesis, University of Montreal, 2022  
 I derived a deep reinforcement learning algorithm from first principles.
@@ -36,14 +36,14 @@ Before my MSc, I was a visiting researcher at Mila working with Prof. Yoshua Ben
 I designed algorithms that trained AI to follow instructions in a 2D gridworld game.
 I was a part of two projects:
 
-3. _BabyAI 1.1_  
+* _BabyAI 1.1_  
 _David Yu-Tung Hui_, Maxime Chevalier-Boisvert, Dzmitry Bahdanau, Yoshua Bengio  
 arXiv preprint, 2020  
 We found three subtle changes to neural network architectures that almost tripled the sample efficiency of reinforcement learning for instruction following.  
 [[.pdf]](https://arxiv.org/pdf/2007.12770)
 [[Code (GitHub)]](https://github.com/mila-iqia/babyai)
 
-5. _Combating False Negatives in Adversarial Imitation Learning_  
+* _Combating False Negatives in Adversarial Imitation Learning_  
 Konrad Zołna, Chitwan Saharia, Leonard Boussioux, _David Yu-Tung Hui_, Maxime Chevalier-Boisvert, Dzmitry Bahdanau, Yoshua Bengio  
 We presented three modifications to adversarial imitation learning that improved the sample efficiency of instruction following by at least an order of magnitude.  
 IJCNN, 2021  
@@ -52,13 +52,13 @@ AAAI, 2020 (Student Abstract)
 
 I also worked on two applications of deep learning during my time as a visiting researcher:
 
-5. _Generating Multiscale Amorphous Molecular Structures Using Deep Learning: A Study in 2D_  
+* _Generating Multiscale Amorphous Molecular Structures Using Deep Learning: A Study in 2D_  
 Michael Kilgour, Nicolas Gastellu, _David Yu-Tung Hui_, Yoshua Bengio, Lena Simine  
 The Journal of Physical Chemistry Letters, 2020  
 We trained PixelCNN to generate images of amorphous materials.  
 [[.pdf]](https://drive.google.com/file/d/1NkbTbbIHPm5cGMpUBLdn0kJN2N5ix0Dq/view)
 
-7. _A benchmark of medical out of distribution detection_  
+* _A benchmark of medical out of distribution detection_  
 Tianshi Cao, Chin-Wei Huang, _David Yu-Tung Hui_, Joseph Paul Cohen  
 UDL Workshop, ICML 2020 (Oral)  
 We benchmarked deep learning algorithms on how well they detected medical images outside their training data.  
@@ -66,7 +66,7 @@ We benchmarked deep learning algorithms on how well they detected medical images
 [[10-min talk]](https://slideslive.com/38930580/a-benchmark-of-medical-out-of-distribution-detection)
 [[Code (GitHub)]](https://github.com/caotians1/OD-test-master)
 
-Before my time at Mila, I studied for a BA in Computer Science at Trinity College Cambridge, and completed internships at Facebook and Tractable.
+Before my time at Mila, I studied for a BA in Computer Science at Trinity College Cambridge and completed internships at Facebook and Tractable.
 
 I also hold a DipABRSM in piano performance.
 

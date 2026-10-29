@@ -52,7 +52,7 @@ AAAI, 2020 (Student Abstract)
 I also worked on two applications of deep learning during my time as a visiting researcher:
 
 * _Generating Multiscale Amorphous Molecular Structures Using Deep Learning: A Study in 2D_  
-Michael Kilgour, Nicolas Gastellu, _David Yu-Tung Hui_, Yoshua Bengio, Lena Simine  
+Michael Kilgour, Nicolas Gastellu, _David Yu-Tung Hui_ (as David Y. T. Hui), Yoshua Bengio, Lena Simine  
 The Journal of Physical Chemistry Letters, 2020  
 We trained PixelCNN to generate images of amorphous materials.  
 [[.pdf]](https://drive.google.com/file/d/1NkbTbbIHPm5cGMpUBLdn0kJN2N5ix0Dq/view)
@@ -65,7 +65,7 @@ We benchmarked deep learning algorithms on how well they detected medical images
 [[10-min talk]](https://slideslive.com/38930580/a-benchmark-of-medical-out-of-distribution-detection)
 [[Code (GitHub)]](https://github.com/caotians1/OD-test-master)
 
-Before my time at Mila, I studied for a BA in Computer Science at Trinity College Cambridge and completed internships at Facebook and Tractable.
+Before my time at Mila, I completed BA studies in Computer Science at Trinity College Cambridge and also completed internships at Facebook and Tractable.
 
 I also hold a DipABRSM in piano performance.
 

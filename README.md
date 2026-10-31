@@ -5,6 +5,8 @@
 
 I am an alumnus of Mila, University of Montreal, where I completed MSc studies in Computer Science with a concentration in AI.
 
+I am currently self-studying philosophy of mind.
+
 During my MSc, I conducted research that was co-supervised by Prof. Aaron Courville and Prof. Pierre-Luc Bacon.
 I researched a subfield of AI called deep reinforcement learning, and contributed two works:
 
